@@ -21,6 +21,7 @@ export default class Reviews extends Component {
                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                                             Lorem Ipsum has been the industry's standard dummy text ever to make a type specimen book.
                                         </p>
+                                        
                                     </div>
                                 </div>
                             </div>
