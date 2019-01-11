@@ -3,6 +3,7 @@ import React, { Component } from 'react'
 export default class Reviews extends Component {
   render() {
     return (
+        //review
         <section id="reviews" className="py-5">
             <div id="slider" className="carousel slide" data-ride="carousel ">
                 <div className="carousel-inner">
@@ -21,7 +22,7 @@ export default class Reviews extends Component {
                                             Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                                             Lorem Ipsum has been the industry's standard dummy text ever to make a type specimen book.
                                         </p>
-                                        
+
                                     </div>
                                 </div>
                             </div>
